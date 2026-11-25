@@ -2,7 +2,7 @@
 
 Aplicación web full-stack para la visualización en tiempo real y gestión administrativa de operaciones de vuelos (salidas, llegadas, puertas de embarque y estados), compuesta por un cliente web modular y una API REST documentada con OpenAPI.
 
-Demo en vivo (Frontend): [Enlace a tu GitHub Pages]
+Demo en vivo (Frontend): https://nestor-dev-dev.github.io/airport-twd/frontend/
 
 ## Stack Tecnológico
 - **Frontend:** JavaScript (ES6 Modules), HTML5, CSS3 (Grid, Flexbox, diseño Mobile-First)
